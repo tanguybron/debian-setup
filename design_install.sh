@@ -6,4 +6,4 @@ plasma-apply-lookandfeel -a org.kde.breezedark.desktop
 plasma-apply-wallpaperimage $HOME/background.jpg
 
 ## install OhMyZsh
-bash -x ./user_terminal.sh
+bash -x ./user_terminal.sh 
