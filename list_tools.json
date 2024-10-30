@@ -1,0 +1,10 @@
+{
+    "categories":{
+        "reconnaissance":[
+            "nmap",
+            "masscan",
+            "gobuster",
+            "dirb"
+        ]
+    }
+}
